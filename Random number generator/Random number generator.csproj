@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>Csharp___small_projects</RootNamespace>
+    <RootNamespace>Random_number_generator</RootNamespace>
   </PropertyGroup>
 
 </Project>

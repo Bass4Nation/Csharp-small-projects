@@ -1,0 +1,14 @@
+I:\Github\Csharp-small-projects\Random number generator\bin\Debug\netcoreapp3.1\Random number generator.exe
+I:\Github\Csharp-small-projects\Random number generator\bin\Debug\netcoreapp3.1\Random number generator.deps.json
+I:\Github\Csharp-small-projects\Random number generator\bin\Debug\netcoreapp3.1\Random number generator.runtimeconfig.json
+I:\Github\Csharp-small-projects\Random number generator\bin\Debug\netcoreapp3.1\Random number generator.runtimeconfig.dev.json
+I:\Github\Csharp-small-projects\Random number generator\bin\Debug\netcoreapp3.1\Random number generator.dll
+I:\Github\Csharp-small-projects\Random number generator\bin\Debug\netcoreapp3.1\Random number generator.pdb
+I:\Github\Csharp-small-projects\Random number generator\obj\Debug\netcoreapp3.1\Random number generator.csproj.AssemblyReference.cache
+I:\Github\Csharp-small-projects\Random number generator\obj\Debug\netcoreapp3.1\Random number generator.GeneratedMSBuildEditorConfig.editorconfig
+I:\Github\Csharp-small-projects\Random number generator\obj\Debug\netcoreapp3.1\Random number generator.AssemblyInfoInputs.cache
+I:\Github\Csharp-small-projects\Random number generator\obj\Debug\netcoreapp3.1\Random number generator.AssemblyInfo.cs
+I:\Github\Csharp-small-projects\Random number generator\obj\Debug\netcoreapp3.1\Random number generator.csproj.CoreCompileInputs.cache
+I:\Github\Csharp-small-projects\Random number generator\obj\Debug\netcoreapp3.1\Random number generator.dll
+I:\Github\Csharp-small-projects\Random number generator\obj\Debug\netcoreapp3.1\Random number generator.pdb
+I:\Github\Csharp-small-projects\Random number generator\obj\Debug\netcoreapp3.1\Random number generator.genruntimeconfig.cache
