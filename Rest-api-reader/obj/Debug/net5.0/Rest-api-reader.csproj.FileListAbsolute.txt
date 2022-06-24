@@ -1,0 +1,16 @@
+C:\Users\Bass4Nation\Desktop\Github\Csharp-small-projects\Rest-api-reader\bin\Debug\net5.0\Rest-api-reader.exe
+C:\Users\Bass4Nation\Desktop\Github\Csharp-small-projects\Rest-api-reader\bin\Debug\net5.0\Rest-api-reader.deps.json
+C:\Users\Bass4Nation\Desktop\Github\Csharp-small-projects\Rest-api-reader\bin\Debug\net5.0\Rest-api-reader.runtimeconfig.json
+C:\Users\Bass4Nation\Desktop\Github\Csharp-small-projects\Rest-api-reader\bin\Debug\net5.0\Rest-api-reader.runtimeconfig.dev.json
+C:\Users\Bass4Nation\Desktop\Github\Csharp-small-projects\Rest-api-reader\bin\Debug\net5.0\Rest-api-reader.dll
+C:\Users\Bass4Nation\Desktop\Github\Csharp-small-projects\Rest-api-reader\bin\Debug\net5.0\ref\Rest-api-reader.dll
+C:\Users\Bass4Nation\Desktop\Github\Csharp-small-projects\Rest-api-reader\bin\Debug\net5.0\Rest-api-reader.pdb
+C:\Users\Bass4Nation\Desktop\Github\Csharp-small-projects\Rest-api-reader\obj\Debug\net5.0\Rest-api-reader.csproj.AssemblyReference.cache
+C:\Users\Bass4Nation\Desktop\Github\Csharp-small-projects\Rest-api-reader\obj\Debug\net5.0\Rest-api-reader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bass4Nation\Desktop\Github\Csharp-small-projects\Rest-api-reader\obj\Debug\net5.0\Rest-api-reader.AssemblyInfoInputs.cache
+C:\Users\Bass4Nation\Desktop\Github\Csharp-small-projects\Rest-api-reader\obj\Debug\net5.0\Rest-api-reader.AssemblyInfo.cs
+C:\Users\Bass4Nation\Desktop\Github\Csharp-small-projects\Rest-api-reader\obj\Debug\net5.0\Rest-api-reader.csproj.CoreCompileInputs.cache
+C:\Users\Bass4Nation\Desktop\Github\Csharp-small-projects\Rest-api-reader\obj\Debug\net5.0\Rest-api-reader.dll
+C:\Users\Bass4Nation\Desktop\Github\Csharp-small-projects\Rest-api-reader\obj\Debug\net5.0\ref\Rest-api-reader.dll
+C:\Users\Bass4Nation\Desktop\Github\Csharp-small-projects\Rest-api-reader\obj\Debug\net5.0\Rest-api-reader.pdb
+C:\Users\Bass4Nation\Desktop\Github\Csharp-small-projects\Rest-api-reader\obj\Debug\net5.0\Rest-api-reader.genruntimeconfig.cache
