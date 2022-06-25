@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bass4Nation\\Desktop\\Github\\Csharp-small-projects\\Rest-api-reader\\Rest-api-reader.csproj": {}
+    "I:\\Github\\Csharp-small-projects\\Rest-api-reader\\Rest-api-reader.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bass4Nation\\Desktop\\Github\\Csharp-small-projects\\Rest-api-reader\\Rest-api-reader.csproj": {
+    "I:\\Github\\Csharp-small-projects\\Rest-api-reader\\Rest-api-reader.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bass4Nation\\Desktop\\Github\\Csharp-small-projects\\Rest-api-reader\\Rest-api-reader.csproj",
+        "projectUniqueName": "I:\\Github\\Csharp-small-projects\\Rest-api-reader\\Rest-api-reader.csproj",
         "projectName": "Rest-api-reader",
-        "projectPath": "C:\\Users\\Bass4Nation\\Desktop\\Github\\Csharp-small-projects\\Rest-api-reader\\Rest-api-reader.csproj",
+        "projectPath": "I:\\Github\\Csharp-small-projects\\Rest-api-reader\\Rest-api-reader.csproj",
         "packagesPath": "C:\\Users\\Bass4Nation\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bass4Nation\\Desktop\\Github\\Csharp-small-projects\\Rest-api-reader\\obj\\",
+        "outputPath": "I:\\Github\\Csharp-small-projects\\Rest-api-reader\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\Bass4Nation\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -66,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
         }
       }
     }
